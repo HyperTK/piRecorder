@@ -3,7 +3,7 @@ import datetime
 import time
 import sys
 
-FILEPATH = "/media/pi/raspi/"
+FILEPATH = "/mnt/ssd/"
 MOVIE_INTERVAL = 600
 
 
